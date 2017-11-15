@@ -197,7 +197,7 @@
 #feet .link .p2 a {font-size: 12px;color: #333;}
 
 /*定位边框 */
-#on-web {height: 100%;width: 40px;position: absolute;top: 0;right: 0;background: #000;}
+#on-web {height: 100%;width: 40px;position: fixed;top: 0;right: 0;background: #000;}
 
 /*悬浮定位 */
 #fixed .ul1 {position: fixed;top: 50%;right: 0;height: 280px;margin-top: -140px;width: 40px;background: #000;}
